@@ -1,0 +1,13 @@
+Executando o código q1a.asm na CPU Dual Cycle:
+    Frequência de clock = 100Hz
+    Número de ciclos = 23
+    Número de instruções = 12
+    CPU time = 23 / 100 -> CPU time = 0.23s
+    CPI = (0.23 x 100) / 12 -> CPI = 1.92
+
+Executando o código q1a.asm na CPU Cycle Accurate:
+    Frequência de clock = 100Hz
+    Número de ciclos = 46
+    Número de instruções = 12
+    CPU time = 46 / 100 -> CPU time = 0.46s
+    CPI = (0.46 x 100) / 12 -> CPI = 3.83 

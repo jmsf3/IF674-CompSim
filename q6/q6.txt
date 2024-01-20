@@ -1,0 +1,6 @@
+Executando o código q6.asm na CPU Cycle Accurate:
+    Frequência = 100Hz
+    Número de instruções = 60
+    Número de ciclos = 227
+    CPU time = 227 / 100 -> CPU time = 2.27s
+    CPI = (2.27 x 100) / 60 -> CPI = 3.78

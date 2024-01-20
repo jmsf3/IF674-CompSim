@@ -1,0 +1,4 @@
+Executando o código q3b.asm no pior caso, i.e. 9999 * 9999, na CPU Cycle Accurate:
+    Frequência de clock = 100Hz
+    Número de ciclos = 1848
+    CPU time = 1848 / 100 -> CPU time = 18.48s
